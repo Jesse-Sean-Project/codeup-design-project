@@ -1,0 +1,126 @@
+@media screen and (max-width: 550px) {
+    body {
+        background-color: #f0f0f0;
+    }
+
+    img {
+        width: 105px;
+        height: 105px;
+    }
+
+    .navbar {
+        justify-content: center;
+        background-color: #f0f0f0;
+    }
+
+    .row {
+        text-align: center;
+        color: black;
+    }
+
+    #circle1{
+        height: 200px;
+        width: 200px;
+        background-color: #e6563b;
+        border-radius: 50%;
+        font-size: xx-large;
+        font-weight: bolder;
+        border: 10px solid #f0f0f0;
+        color: white;
+    }
+    #circle2{
+        height: 200px;
+        width: 200px;
+        background-color: #DEA03D;
+        border-radius: 50%;
+        font-size: xx-large;
+        font-weight: bolder;
+        border: 10px solid #f0f0f0;
+        color: white;
+    }
+    #circle3{
+        height: 200px;
+        width: 100px;
+        background-color: #7cb06c;
+        border-radius: 50%;
+        font-size: xx-large;
+        font-weight: bolder;
+        border: 10px solid #f0f0f0;
+        color: white;
+        padding: 5px;
+        text-align: center;
+    }
+    #circle4{
+        height: 200px;
+        width: 200px;
+        background-color: #00aba9;
+        border-radius: 50%;
+        font-size: xx-large;
+        font-weight: bolder;
+        border: 10px solid #f0f0f0;
+        color: white;
+    }
+
+    .apple{
+        border: 10px;
+        color: lightgray;
+        height: auto;
+        width: 100%;
+    }
+    #D{
+        height: 50px;
+        width: 50px;
+        background-color: #e6563b;
+        border-radius: 50%;
+        font-size: large;
+        font-weight: bolder;
+        border: 10px solid #f0f0f0;
+        color: black;
+    }
+
+    #D2{
+        height: 50px;
+        width: 50px;
+        background-color: #DEA03D;
+        border-radius: 50%;
+        font-size: large;
+        font-weight: bolder;
+        border: 10px solid #f0f0f0;
+        color: black;
+    }
+
+    #S{
+        height: 50px;
+        width: 50px;
+        background-color: #7cb06c;
+        border-radius: 50%;
+        font-size: large;
+        font-weight: bolder;
+        border: 10px solid #f0f0f0;
+        color: black;
+    }
+
+    #H{
+        height: 50px;
+        width: 50px;
+        background-color: #00aba9;
+        border-radius: 50%;
+        font-size: large;
+        font-weight: bolder;
+        border: 10px solid #f0f0f0;
+        color: black;
+    }
+
+}
+
+@media screen and (min-width: 600px) {
+
+}
+
+@media screen and (min-width: 800px) {
+
+}
+
+@media screen and (min-width: 1200px) {
+
+}
