@@ -1,4 +1,4 @@
-@media screen and (max-width: 550px) {
+/*@media screen and (max-width: 550px) {*/
     body {
         background-color: #f0f0f0;
     }
@@ -6,6 +6,9 @@
     img {
         width: 105px;
         height: 105px;
+    }
+    h1{
+        text-align: center;
     }
 
     .navbar {
@@ -25,7 +28,7 @@
         border-radius: 50%;
         font-size: xx-large;
         font-weight: bolder;
-        border: 10px solid #f0f0f0;
+        border: 10px solid white;
         color: white;
     }
     #circle2{
@@ -35,7 +38,7 @@
         border-radius: 50%;
         font-size: xx-large;
         font-weight: bolder;
-        border: 10px solid #f0f0f0;
+        border: 10px solid white;
         color: white;
     }
     #circle3{
@@ -45,7 +48,7 @@
         border-radius: 50%;
         font-size: xx-large;
         font-weight: bolder;
-        border: 10px solid #f0f0f0;
+        border: 10px solid white;
         color: white;
         padding: 5px;
         text-align: center;
@@ -57,7 +60,7 @@
         border-radius: 50%;
         font-size: xx-large;
         font-weight: bolder;
-        border: 10px solid #f0f0f0;
+        border: 10px solid white;
         color: white;
     }
 
@@ -67,7 +70,7 @@
         height: auto;
         width: 100%;
     }
-    #D{
+    .D{
         height: 50px;
         width: 50px;
         background-color: #e6563b;
@@ -77,8 +80,7 @@
         border: 10px solid #f0f0f0;
         color: black;
     }
-
-    #D2{
+    .D2{
         height: 50px;
         width: 50px;
         background-color: #DEA03D;
@@ -89,7 +91,7 @@
         color: black;
     }
 
-    #S{
+    .S{
         height: 50px;
         width: 50px;
         background-color: #7cb06c;
@@ -100,9 +102,9 @@
         color: black;
     }
 
-    #H{
+    .H{
         height: 50px;
-        width: 50px;
+        width: 40px;
         background-color: #00aba9;
         border-radius: 50%;
         font-size: large;
@@ -110,8 +112,41 @@
         border: 10px solid #f0f0f0;
         color: black;
     }
+    img.apple{
+        width:350px;
+        height:350px;
+        border: 10px solid gray;
+    }
+    img.macbook{
+        width:350px;
+        height: 350px;
+        border: 10px solid gray;
+    }
+    img.man{
+        width:350px;
+        height: 350px;
+        border: 10px solid gray;
+    }
+    img.security{
+        width:350px;
+        height: 350px;
+        border: 10px solid gray;
+    }
+    .badge{
+        height: 25px;
+        width: 25px;
+        align-content: center;
+    }
+    div.container{
+        justify-content: center;
+    }
 
-}
+    .card-img-top{
+        border:10px solid gray;
+    }
+
+
+/*}*/
 
 @media screen and (min-width: 600px) {
 
