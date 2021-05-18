@@ -72,12 +72,12 @@
     }
     .D{
         height: 50px;
-        width: 50px;
+        width: 20px;
         background-color: #e6563b;
         border-radius: 50%;
         font-size: large;
         font-weight: bolder;
-        border: 10px solid #f0f0f0;
+        /*border: 10px solid #f0f0f0;*/
         color: black;
     }
     .D2{
@@ -87,7 +87,7 @@
         border-radius: 50%;
         font-size: large;
         font-weight: bolder;
-        border: 10px solid #f0f0f0;
+        /*border: 10px solid #f0f0f0;*/
         color: black;
     }
 
@@ -98,7 +98,7 @@
         border-radius: 50%;
         font-size: large;
         font-weight: bolder;
-        border: 10px solid #f0f0f0;
+        /*border: 10px solid #f0f0f0;*/
         color: black;
     }
 
@@ -109,7 +109,7 @@
         border-radius: 50%;
         font-size: large;
         font-weight: bolder;
-        border: 10px solid #f0f0f0;
+        /*border: 10px solid #f0f0f0;*/
         color: black;
     }
     img.apple{
